@@ -84,4 +84,4 @@ Step 4 =
 
 **Please click the link below to access my Campus Assistant chatbot:**
 
-https://nihith007.github.io/-IDAI1011000465-Nihith-Ram-Bikkina/
+https://nihith007.github.io/IDAI1011000465-Nihith-Ram-Bikkina/
