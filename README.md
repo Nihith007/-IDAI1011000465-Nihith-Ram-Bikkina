@@ -14,12 +14,12 @@
 
 # Summative Assessment 1
 
-The Smart Campus Assistant is an AI-powered chatbot developed using Google Dialogflow to help students, teachers, and visitors navigate and access campus information easily.
-It provides quick answers about room locations, event venues, campus facilities, and general details, acting as a virtual guide for anyone on campus.
+**The Smart Campus Assistant is an AI-powered chatbot developed using Google Dialogflow to help students, teachers, and visitors navigate and access campus information easily.
+It provides quick answers about room locations, event venues, campus facilities, and general details, acting as a virtual guide for anyone on campus.**
 
-This project demonstrates the real-world application of Artificial Intelligence by designing a conversational assistant that is responsive, efficient, and user-friendly.
+**This project demonstrates the real-world application of Artificial Intelligence by designing a conversational assistant that is responsive, efficient, and user-friendly.**
 
-List and Explanation of Intents
+**List and Explanation of Intents**
 
   * Default Welcome Intent - Greets users and introduces the campus assistant.
   * Hi - Responds to greetings and starts a friendly conversation.
@@ -37,7 +37,7 @@ List and Explanation of Intents
   * End - Closes the chat session completely.
   * Default Fallback Intent - Triggered when the chatbot doesn’t recognize a user’s message.
 
-List and Explanation of Entities
+**List and Explanation of Entities**
 
   * Feedback - Detects user sentiment and categorizes feedback as positive or negative. (e.g., “⭐️⭐️⭐️⭐️⭐️” → positive, “⭐️⭐️” → negative)
   * Event Name - Identifies school events such as Annual Day, Science Fest, MUN, Sports Meet, or Cultural Fest.
@@ -45,7 +45,7 @@ List and Explanation of Entities
   * Rooms - Detects room or area names like Library, Music Room, Lunchroom, Teachers' Room, Gym roof, or Restroom.
 
 
-Integration Details
+**Integration Details**
   
   * 15+ intents and 4 entities configured.
   * Slot filling used for roles, rooms, and event names.
@@ -56,7 +56,7 @@ Integration Details
   * GitHub – for project storage and documentation.
 
 
-Deployment Instructions
+**Deployment Instructions**
 
 Step 1 = 
   * Create Agent in Dialogflow
@@ -82,6 +82,6 @@ Step 4 =
 
 
 
-Please click the link below to access my Campus Assistant chatbot: 
+**Please click the link below to access my Campus Assistant chatbot:**
 
 https://nihith007.github.io/-IDAI1011000465-Nihith-Ram-Bikkina/
