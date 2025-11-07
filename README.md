@@ -12,6 +12,8 @@
 
 # School name - Birla Open Minds International School, Kollur
 
+# Summative Assessment 1
+
 The Smart Campus Assistant is an AI-powered chatbot developed using Google Dialogflow to help students, teachers, and visitors navigate and access campus information easily.
 It provides quick answers about room locations, event venues, campus facilities, and general details, acting as a virtual guide for anyone on campus.
 
