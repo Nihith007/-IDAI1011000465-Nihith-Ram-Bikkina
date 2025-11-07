@@ -1,4 +1,11 @@
 # IDAI1011000465-Nihith-Ram-Bikkina
+
+Candidate Name - Nihith Ram Bikkina
+Candidate Registration Number -1000465
+CRS Name: Artificial Intelligence
+Course Name - AI-Based Smart Solutions: Designing Chatbots for Real-World Challenges
+School name - Birla Open Minds International School, Kollur
+
 The Smart Campus Assistant is an AI-powered chatbot developed using Google Dialogflow to help students, teachers, and visitors navigate and access campus information easily.
 It provides quick answers about room locations, event venues, campus facilities, and general details, acting as a virtual guide for anyone on campus.
 
@@ -29,6 +36,7 @@ Entity Name	Function / Example
 * Roles - Recognizes the user’s role (student, teacher, or visitor) to personalize information and responses.
 * Rooms - Detects room or area names like Library, Music Room, Lunchroom, Teachers' Room, Gym roof, or Restroom.
 
+
 Integration Details
 
 Platform Used: Google Dialogflow ES
@@ -44,6 +52,7 @@ Rich Responses:
 Integrations:
 * Dialogflow Messenger – for embedding in a website or portal.
 * GitHub – for project storage and documentation.
+
 
 Deployment Instructions
 
@@ -70,7 +79,8 @@ Integrate & Deploy
 * Copy the embed code to your website or project page.
 
 Publish the Bot
-*Test one final time and share the live chatbot link.
+* Test one final time and share the live chatbot link.
+
 
 Please click the link below to access my Campus Assistant chatbot: 
 
