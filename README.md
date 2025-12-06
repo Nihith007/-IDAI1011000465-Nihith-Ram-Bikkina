@@ -4,7 +4,7 @@
 
 # Candidate Name - Nihith Ram Bikkina
 
-# Candidate Registration Number -1000465
+# Candidate Registration Number - 1000465
 
 # CRS Name: Artificial Intelligence
 
